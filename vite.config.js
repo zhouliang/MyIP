@@ -27,8 +27,8 @@ export default defineConfig({
         ]
       },
       manifest: {
-        name: 'IPCheck.ing',
-        short_name: 'IPCheck.ing',
+        name: 'ip.admin.im',
+        short_name: 'IP.Admin.IM',
         theme_color: '#f8f9fa',
         orientation: "portrait",
         id: 'com.jasonng.myip',
